@@ -4,6 +4,5 @@ I've been a .NET developer since the first Beta releases of the .NET Compact Fra
 
 - [Blog](https://inthehand.com/blog)
 - [LinkedIn](https://uk.linkedin.com/in/pfoot)
-- Twitter [@peterfoot](https://twitter.com/peterfoot)
 - Mastodon [@peterfoot@mastodon.online](https://mastodon.online/@peterfoot)
 - [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/8324)
